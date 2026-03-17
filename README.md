@@ -9,7 +9,7 @@ The model is trained on labeled text data and uses TF-IDF vectorization along wi
 
 ## 📊 Model Output
 
-![Model Output](images/model_output.png)
+![Model Output](Accuracy.png)
 
 ## 🎯 Problem Statement
 Spam messages and comments are common on platforms like YouTube and SMS services, which can lead to misinformation and security risks.
