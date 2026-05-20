@@ -1,17 +1,17 @@
-# 📊  Project title : Spam Detection using Machine Learning
+# Project title : Spam Detection using Machine Learning
 
-## 🚀 Overview
+##  Overview
 This project is an end-to-end Machine Learning solution to classify text messages or comments as **spam or ham (non-spam)** using Natural Language Processing (NLP) techniques.
 
 The model is trained on labeled text data and uses TF-IDF vectorization along with a classification algorithm to accurately detect spam content.
 
 ---
 
-## 📊 Model Output
+##  Model Output
 
 ![Model Output](Accuracy.png)
 
-## 🎯 Problem Statement
+##  Problem Statement
 Spam messages and comments are common on platforms like YouTube and SMS services, which can lead to misinformation and security risks.
 
 The goal of this project is to:
@@ -21,7 +21,7 @@ The goal of this project is to:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Total Records: 5,572
 - Columns: 2 (Text, Label)
 
@@ -31,7 +31,7 @@ The dataset contains labeled messages where:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - pandas
 - NumPy
@@ -41,7 +41,7 @@ The dataset contains labeled messages where:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ### 1. Data Preprocessing
 - Removed null values
@@ -66,12 +66,12 @@ The dataset contains labeled messages where:
 
 ---
 
-## 📈 Results
+##  Results
 - Achieved high accuracy in classifying spam messages
 - Model effectively distinguishes between spam and legitimate text
 
 
-## 💡 Key Learnings
+##  Key Learnings
 - Learned text preprocessing techniques in NLP
 - Understood TF-IDF and its importance
 - Built and evaluated a classification model
@@ -79,7 +79,7 @@ The dataset contains labeled messages where:
 
 ---
 
-## 🧠 Business Impact
+##  Business Impact
 This model can help:
 - Detect and filter spam messages automatically
 - Improve user experience on platforms
@@ -87,14 +87,14 @@ This model can help:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Try advanced models (Logistic Regression, Random Forest)
 - Hyperparameter tuning
-- Deploy model using Flask / Streamlit
+- Deploy model using Streamlit
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
